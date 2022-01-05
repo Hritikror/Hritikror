@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hritikror
-- 👀 I’m interested in ...many things.
-- 🌱 I’m currently learning react
+- 👀 I’m interested in CP.
+- 🌱 I’m currently working with react.
 - 💞️ I’m looking to collaborate on react project.
 - 📫 You can reach me via hritikror@gmail.com
 
