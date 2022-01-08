@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hritikror
-- 👀 I’m interested in CP.
+- 👀 I’m interested in Front-end development, CP ...
 - 🌱 I’m currently working with react.
 - 💞️ I’m looking to collaborate on react project.
 - 📫 You can reach me via hritikror@gmail.com
