@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hritikror
-- 👀 I’m interested in Front-end development, CP ...
-- 🌱 I’m currently working with react.
-- 💞️ I’m looking to collaborate on react project.
+- 👀 I’m interested in Full-Stack development, CP ...
+- 🌱 I’m currently working with NOdeJs and Groovy-Grails.
+- 💞️ I’m looking to collaborate on Nodejs api projects.
 - 📫 You can reach me via hritikror@gmail.com
 
 <!---
